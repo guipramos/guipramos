@@ -6,13 +6,15 @@ Desenvolvedor Front End que trabalha com o trio da pesada, HTML, CSS e JavaScrip
 
 Crio projetos pessoais, sites e blogs e logo mais um portfolio proprio novinho saindo do forno.
 
+📫 Como entrar em contato comigo -> https://www.linkedin.com/in/guihpramos/
+
 ---
 
 ## &#x1f4c8; Meu GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipramos&hide=java,Ruby&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![guipramos GitHub stats](https://github-readme-stats.vercel.app/api?username=guipramos&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme GitHub status](https://github-readme-stats.vercel.app/api?username=guipramos&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
