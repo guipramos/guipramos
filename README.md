@@ -8,7 +8,7 @@ Crio projetos pessoais, sites e blogs e logo mais um portfolio proprio novinho s
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## &#x1f4c8; Meu GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guipramos&hide=java,Ruby&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
